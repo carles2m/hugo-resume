@@ -45,58 +45,42 @@ All personal information outside the above details is captured by params in [`co
 
 ```toml
 [params]
-firstName = "Eddie"
-lastName = "Webb"
-address = "Rollinsford, NH"
-phone = "1-555-555-1234"
-contactNote = "Dev Tools Engineer" #used in QR code only
-profileImage = "img/me.png"
-email = "email@domain.com"
-description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+firstName = "Carles"
+lastName = "Moreno Magrans"
+address = "North Bend, WA, US"
+profileImage = "img/profile.jpg"
+email = "carlesm@outlook.com"
+description = "Software Engineer making the web empower everyone to achieve more."
 favicon = "images/favicon.ico"
 
-# what sections to display.  Setting to false disables navigation and section.
+# what sections
 showSkills = true
 showProjects = true
-showOpenSource = true
-showPublications = true
+showOpenSource = false
+showPublications = false
 showExperience = true
 showEducation = true
 
-showQr = true
-
-# do you want to show git hash on page footer and link to repo? Add commit URl for repo here.
-gitCommitPrefix = "https://github.com/YOURNAME/REPONAME/commit/"
-
+showQr = false
+contactNote = "Software Engineer"
 
 [[params.handles]]
 name = "LinkedIn"
-link = "https://www.linkedin.com/in/edwardwebb/"
-
-[[params.handles]]
-name = "GitHub"
-link = "https://github.com/eddiewebb/"
+link = "https://www.linkedin.com/in/carles2m"
 
 [[params.handles]]
 name = "Bitbucket"
-link = "https://bitbucket.org/eddiewebb/"
+link = "https://bitbucket.org/mushn/"
 
 [[params.handles]]
-name = "Stack Overflow"
-link = "https://stackoverflow.com/users/story/82880"
-# optional icon attribute used for Font Awesome icons, otherwise the name is lowercased.
-icon = "stack-overflow"
-
-[[params.handles]]
-name = "Keybase"
-link = "https://keybase.io/edwardawebb"
-# optional icon attribute used for Font Awesome icons, otherwise the name is lowercased.
-icon = "key"
+name = "GitHub"
+link = "https://github.com/carles2m"
 
 [params.google.analytics]
 trackerID = "XX-123446-01"
 
-[outputs] #only required for search
+#only required for search
+[outputs]
 home = ["HTML", "JSON"]
 ```
 

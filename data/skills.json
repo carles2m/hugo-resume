@@ -1,23 +1,76 @@
 [
-  {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
-  },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
-  },
-  {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
-  },
-  {
-    "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"}
-      ]
-  }
+    {
+        "grouping": "Languages",
+        "skills": [
+            "C#",
+            "ASP.NET MVC",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Python",
+            "C++"
+        ]
+    },
+    {
+        "grouping": "Tools",
+        "skills": [
+            {
+                "name": "VisualStudio",
+                "link": "https://visualstudio.microsoft.com/"
+            },
+            {
+                "name": "MWF",
+                "link": "https://www.microsoft.com/mwf"
+            },
+            {
+                "name": "git",
+                "link": "https://git-scm.com/"
+            },
+            {
+                "name": "LINQ",
+                "link": "https://docs.microsoft.com/dotnet/csharp/programming-guide/concepts/linq/"
+            },
+            {
+                "name": "SASS",
+                "link": "https://sass-lang.com/"
+            },
+            {
+                "name": "jQuery",
+                "link": "https://jquery.com/"
+            },
+            {
+                "name": "Angular",
+                "link": "https://angularjs.org/"
+            },
+            {
+                "name": "NodeJS",
+                "link": "https://nodejs.org/"
+            },
+            {
+                "name": "MongoDB",
+                "link": "https://www.mongodb.com/"
+            }
+        ]
+    },
+    {
+        "grouping": "Platform Development",
+        "skills": [
+            {
+                "name": "Visual Studio Team Services",
+                "link": "https://visualstudio.microsoft.com/vso/"
+            },
+            {
+                "name": "Bitbucket",
+                "link": "https://bitbucket.org"
+            }
+        ]
+    },
+    {
+        "grouping": "Spoken languages",
+        "skills": [
+            "English",
+            "Spanish",
+            "Catalan"
+        ]
+    }
 ]

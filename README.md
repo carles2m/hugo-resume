@@ -51,7 +51,6 @@ address = "North Bend, WA, US"
 profileImage = "img/profile.jpg"
 email = "carlesm@outlook.com"
 description = "Software Engineer making the web empower everyone to achieve more."
-favicon = "images/favicon.ico"
 
 # what sections
 showSkills = true

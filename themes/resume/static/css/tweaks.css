@@ -45,7 +45,7 @@ div.skills-heading{
 .tag {
   background: #eee;
   border-radius: 3px 0 0 3px;
-  color: #999;
+  color: #666;
   display: inline-block;
   height: 26px;
   line-height: 26px;
@@ -80,12 +80,12 @@ div.skills-heading{
 }
 
 .tag:hover {
-  background-color: crimson;
+  background-color: #AD5D38;
   color: white;
 }
 
 .tag:hover::after {
-   border-left-color: crimson;
+   border-left-color: #AD5D38;
 }
 
 .project-fact{

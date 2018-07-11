@@ -7,7 +7,7 @@ theme = "resume"
 firstName = "Carles"
 lastName = "Moreno Magrans"
 address = "North Bend, WA, US"
-profileImage = "img/profile.jpg"
+profileImage = "/img/profile.jpg"
 email = "carlesm@outlook.com"
 description = "Software Engineer making the web empower everyone to achieve more."
 

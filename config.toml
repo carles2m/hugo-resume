@@ -35,7 +35,7 @@ name = "GitHub"
 link = "https://github.com/carles2m"
 
 [params.google.analytics]
-trackerID = "XX-123446-01"
+trackerID = "UA-122301273-1"
 
 #only required for search
 [outputs]

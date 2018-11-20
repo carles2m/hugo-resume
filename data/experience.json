@@ -1,9 +1,15 @@
 [
     {
+        "role": "Senior Software Engineer",
+        "company": "Microsoft",
+        "summary": "Technical lead in the Family area of account.microsoft.com, where we help users keep kids safer online, have fun together, and stay connected.",
+        "range": "August 2018 - Present"
+    },
+    {
         "role": "Software Engineer 2",
         "company": "Microsoft",
         "summary": "Technical lead of the Services & Subscriptions area of account.microsoft.com, where users can manage their subscriptions (Office, Xbox Live, Xbox Game Pass, EAAccess…).",
-        "range": "April 2015 - Present"
+        "range": "April 2015 - July 2018"
     },
     {
         "role": "Software Engineer 2",

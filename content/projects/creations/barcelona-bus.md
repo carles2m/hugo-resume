@@ -2,7 +2,7 @@
     "title": "Barcelona Bus",
     "link": "https://www.microsoft.com/p/barcelona-bus/9nblggh09ptj",
     "image": "/img/barcelona-bus.jpg",
-    "description": "Barcelona Bus is a Windows Phone app that shows you how much time it will take for the next bus to reach a bus stop for all bus stops in Barcelona and its surrounding areas. <br/>900+ reviews with a 4 star rating average in the Spanish market.",
+    "description": "Barcelona Bus is a Windows Phone app that shows you how much time it will take for the next bus to reach a bus stop for all bus stops in Barcelona and its surrounding areas. <br/>270 reviews with a 4 star rating average in the Spanish market.",
     "tags": [ "C#", "Windows Phone", "JavaScript", "ECMAScript 2017", "NodeJS", "MongoDB", "REST APIs", "Swagger", "Bitbucket" ],
     "fact": "900+ reviews with a 4 star rating average in the Spanish market.",
     "featured": true
@@ -11,7 +11,7 @@
 
 Barcelona Bus is a Windows Phone app that shows you how much time it will take for the next bus to reach a bus stop for all bus stops in Barcelona and its surrounding areas.
 <br/>
-900+ reviews with a 4 star rating average in the Spanish market.
+270 reviews with a 4 star rating average in the Spanish market.
 <br/>
 [Backend REST APIs](https://barcelonabus.azurewebsites.net).
 

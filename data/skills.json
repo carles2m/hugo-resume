@@ -4,9 +4,10 @@
         "skills": [
             "C#",
             "ASP.NET MVC",
-            "HTML",
-            "CSS",
+            "HTML5",
+            "CSS3",
             "JavaScript",
+            "TypeScript",
             "Python",
             "C++"
         ]
@@ -19,18 +20,6 @@
                 "link": "https://visualstudio.microsoft.com/"
             },
             {
-                "name": "MWF",
-                "link": "https://www.microsoft.com/mwf"
-            },
-            {
-                "name": "git",
-                "link": "https://git-scm.com/"
-            },
-            {
-                "name": "LINQ",
-                "link": "https://docs.microsoft.com/dotnet/csharp/programming-guide/concepts/linq/"
-            },
-            {
                 "name": "SASS",
                 "link": "https://sass-lang.com/"
             },
@@ -41,6 +30,10 @@
             {
                 "name": "Angular",
                 "link": "https://angularjs.org/"
+            },
+            {
+                "name": "React",
+                "link": "https://reactjs.org/"
             },
             {
                 "name": "NodeJS",
@@ -56,12 +49,16 @@
         "grouping": "Platform Development",
         "skills": [
             {
-                "name": "Visual Studio Team Services",
-                "link": "https://visualstudio.microsoft.com/vso/"
+                "name": "Azure DevOps",
+                "link": "https://azure.microsoft.com/services/devops/"
             },
             {
                 "name": "Bitbucket",
                 "link": "https://bitbucket.org"
+            },
+            {
+                "name": "GitHub",
+                "link": "https://github.com"
             }
         ]
     },

@@ -10,5 +10,4 @@ outputs:
 - json
 ---
 
-<p>Having a website that can be used by everyone is no simple task. If not designed correctly, using a website can become a disgusting and frustrating experience.</p>
-<p>If you are looking for someone that has experience solving these and other topics in a company like Microsoft, you have found the right person.</p>
+<p>I am passionate about building websites that can be used by everyone and a gamer.</p>

@@ -2,41 +2,44 @@
     {
         "role": "Senior Software Engineer",
         "company": "Microsoft",
-        "summary": "Technical lead in the Family area of account.microsoft.com, where we help users keep kids safer online, have fun together, and stay connected.",
-        "range": "August 2018 - Present"
+        "summary": "Joined the Family team of the account.microsoft.com website, delivering big rock features like parental consent on Xbox, Web and Windows.",
+        "summary2": "Currently leading the migration to a new UX framework.",
+        "range": "July 2018 - Present"
     },
     {
         "role": "Software Engineer 2",
         "company": "Microsoft",
-        "summary": "Technical lead of the Services & Subscriptions area of account.microsoft.com, where users can manage their subscriptions (Office, Xbox Live, Xbox Game Pass, EAAccess…).",
+        "summary": "Technical lead of the Services & Subscriptions area of the account.microsoft.com website, where users can manage their Microsoft related subscriptions.",
+        "summary2": "Adapted the website to support subscriptions based on the modern stack.",
+        "summary3": "Ported the website to the OneUI web framework.",
+        "summary4": "Migrated the Office MyAccount website to account.microsoft.com.",
+        "summary5": "Used C#, ASP.NET MVC 5, HTML5, CSS3, SASS, TypeScript, Angular, jQuery.",
         "range": "April 2015 - July 2018"
     },
     {
         "role": "Software Engineer 2",
         "company": "Microsoft",
-        "summary": "Implemented the Outline feature for Excel Online.",
+        "summary": "Implemented revision records for outlines in Excel Online.",
+        "summary2": "Implemented the formulas menu for an unreleased version of Excel.",
+        "summary3": "Used HTML, CSS, JavaScript, C#, Script#, XAML, C++.",
         "range": "July 2013 - April 2015"
     },
     {
         "role": "Software Engineer",
         "company": "Microsoft",
-        "summary": "Built the front end of the MyAccount and Purchase pages of office.com.",
-        "range": "August 2010 - July 2013"
+        "summary": "Built the front end of the Office MyAccount and Purchase pages under office.com.",
+        "summary2": "Used C#, HTML, CSS, JavaScript, jQuery.",
+        "range": "August 2010 - June 2013"
     },
     {
-        "role": "Developer",
+        "role": "Software Engineer",
         "company": "Tango/04 Computing Group",
         "summary": "Created a database design that improved reading data from databases 2000% and implemented a server application that allowed SQL queries to be performed in SQL Server, Oracle and PostgreSQL.",
+        "summary2": "Used C++ (ACE, Boost, gSOAP, OTL).",
         "range": "January 2009 - May 2010"
     },
     {
-        "role": "IT Support Technician",
-        "company": "Servei Meteorològic de Catalunya",
-        "summary": "Refreshed all the computers in the organization which made employees be more productive as their computers were not running slowly anymore.",
-        "range": "June 2006 - July 2008"
-    },
-    {
-        "role": "Intern Programmer",
+        "role": "Software Engineer Intern",
         "company": "Panasonic",
         "summary": "Coded an application with Visual Basic .Net that made the selection of the images that were going to be installed on new manufactured laptops easier and faster.",
         "range": "July 2004 - September 2004"

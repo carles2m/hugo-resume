@@ -1,10 +1,15 @@
 [
     {
+        "role": "Senior Software Engineer Manager",
+        "company": "Microsoft",
+        "summary": "Leading the migration of family.microsoft.com from AngularJS to React.",
+        "range": "April 2021 - Present"
+    },
+    {
         "role": "Senior Software Engineer",
         "company": "Microsoft",
         "summary": "Joined the Family team of the account.microsoft.com website, delivering big rock features like parental consent on Xbox, Web and Windows.",
-        "summary2": "Currently leading the migration to a new UX framework.",
-        "range": "July 2018 - Present"
+        "range": "August 2018 - April 2021"
     },
     {
         "role": "Software Engineer 2",
